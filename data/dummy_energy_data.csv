@@ -1,0 +1,101 @@
+Property Type,Location,Square Footage,Number of Bedrooms,Number of Bathrooms,Roof Type,Year of Construction,Current Monthly Energy Usage,Primary Energy Source,Number of Occupants,Heating System,Cooling System,Water Heating System,Thermostat Type,Lighting Type,Roof Insulation,Wall Insulation,Major Appliances,Window Type,Door Type,Solar Panel,Other Renewable Energy Source
+Apartment,Rural,3518,3,1,Asphalt,1981,219.6031055,Electric,1,Forced Air,Window AC,Tankless,Manual,CFL,Other,Foam,"Refrigerator, Microwave",Double Pane,Fiberglass,Yes,Yes
+Apartment,Suburban,3613,2,1,Asphalt,1988,115.0654348,Other,2,Radiant,Window AC,Tankless,Manual,Incandescent,Fiberglass,Fiberglass,"Microwave, Dishwasher, Refrigerator, Other, Dryer, Oven, Washer",Low-E,Wood,No,No
+Condo,Rural,2774,1,1,Asphalt,1994,179.8318361,Other,8,Other,None,Heat Pump,Smart,LED,Foam,Other,"Dishwasher, Other, Dryer",Single Pane,Fiberglass,Yes,No
+House,Rural,1264,4,4,Tile,2012,122.1049254,Solar,1,Heat Pump,Window AC,Heat Pump,Smart,CFL,Fiberglass,Fiberglass,"Washer, Oven, Dishwasher, Other, Refrigerator, Dryer, Microwave",Single Pane,Fiberglass,No,Yes
+Apartment,Suburban,4815,5,4,Other,2013,276.1634468,Electric,8,Forced Air,Central AC,Heat Pump,Smart,LED,Other,Other,"Refrigerator, Other, Oven, Washer, Dishwasher, Microwave, Dryer",Double Pane,Metal,No,Yes
+Condo,Rural,4100,5,2,Asphalt,2003,160.9663396,Electric,7,Other,None,Storage,Smart,Incandescent,Fiberglass,Foam,"Refrigerator, Oven, Dishwasher, Other",Single Pane,Metal,No,Yes
+Condo,Urban,4905,5,3,Asphalt,2019,140.9710712,Other,2,Radiant,Window AC,Other,Smart,LED,Other,Other,"Other, Oven, Dryer, Microwave",Single Pane,Metal,No,Yes
+Apartment,Rural,3803,4,3,Other,1982,244.2841935,Gas,2,Heat Pump,Central AC,Heat Pump,Smart,Incandescent,Fiberglass,Foam,"Washer, Oven, Dryer, Microwave, Dishwasher",Single Pane,Wood,Yes,No
+Condo,Rural,2955,5,4,Other,2021,151.7362667,Electric,10,Forced Air,None,Other,Smart,Incandescent,Foam,Foam,"Refrigerator, Microwave, Oven, Dishwasher, Other",Low-E,Metal,Yes,No
+Apartment,Suburban,3081,4,3,Tile,1982,80.64255286,Gas,7,Other,Window AC,Other,Manual,CFL,Foam,Other,"Washer, Microwave",Low-E,Wood,Yes,No
+Apartment,Urban,2163,3,3,Asphalt,1982,144.3484248,Gas,4,Forced Air,Window AC,Storage,Manual,LED,Other,Fiberglass,"Oven, Microwave, Washer, Dryer",Double Pane,Wood,Yes,No
+Condo,Suburban,3148,1,3,Asphalt,2019,227.3874728,Electric,1,Forced Air,Central AC,Tankless,Manual,LED,Fiberglass,Other,"Other, Dishwasher, Microwave, Oven, Washer, Dryer",Low-E,Metal,No,Yes
+House,Rural,3106,2,3,Other,1998,81.14631682,Electric,9,Radiant,Window AC,Heat Pump,Smart,LED,Other,Other,"Microwave, Washer, Refrigerator",Double Pane,Wood,Yes,Yes
+Apartment,Suburban,4419,4,2,Metal,2009,269.1288002,Electric,6,Forced Air,Central AC,Other,Programmable,Incandescent,Other,Foam,"Dryer, Dishwasher, Oven",Low-E,Fiberglass,Yes,No
+House,Urban,3741,1,3,Metal,2009,180.4483317,Other,7,Forced Air,Window AC,Storage,Programmable,LED,Other,Other,"Dishwasher, Refrigerator, Oven, Microwave",Double Pane,Wood,No,No
+House,Suburban,1831,2,1,Tile,1981,279.7662555,Solar,5,Other,Central AC,Other,Smart,Incandescent,Fiberglass,Fiberglass,"Refrigerator, Other",Low-E,Fiberglass,No,Yes
+House,Urban,2793,2,2,Metal,2023,225.1072998,Electric,4,Heat Pump,Central AC,Other,Smart,LED,Foam,Fiberglass,"Washer, Refrigerator, Other, Dishwasher, Microwave",Low-E,Fiberglass,Yes,No
+House,Urban,3884,3,2,Asphalt,2021,99.31193081,Other,7,Radiant,Central AC,Heat Pump,Programmable,Incandescent,Other,Other,"Washer, Dryer, Other, Oven",Single Pane,Fiberglass,Yes,Yes
+Condo,Urban,4471,4,3,Metal,1981,278.7370733,Electric,10,Other,Window AC,Storage,Smart,Incandescent,Foam,Fiberglass,"Microwave, Oven",Low-E,Metal,Yes,No
+House,Suburban,3724,5,1,Metal,1980,137.3475602,Electric,7,Other,Central AC,Tankless,Manual,Incandescent,Fiberglass,Fiberglass,"Refrigerator, Washer",Double Pane,Fiberglass,No,No
+House,Urban,4251,2,1,Other,2003,59.7757889,Electric,7,Other,Central AC,Heat Pump,Programmable,Incandescent,Other,Fiberglass,"Other, Microwave, Refrigerator, Dishwasher, Dryer, Oven",Single Pane,Wood,No,No
+House,Rural,3957,5,4,Tile,2017,231.2374934,Other,5,Heat Pump,Central AC,Heat Pump,Smart,Incandescent,Other,Foam,"Other, Oven, Dryer, Microwave, Washer",Single Pane,Metal,No,Yes
+House,Suburban,2318,1,1,Other,2015,264.9897867,Gas,7,Heat Pump,Central AC,Tankless,Programmable,Incandescent,Foam,Other,"Dishwasher, Dryer, Refrigerator, Washer, Microwave, Oven",Double Pane,Metal,Yes,Yes
+House,Rural,1129,4,1,Tile,2002,94.61774139,Other,6,Other,None,Storage,Programmable,CFL,Other,Fiberglass,"Dishwasher, Other, Oven, Refrigerator",Low-E,Fiberglass,No,No
+House,Urban,2472,5,3,Tile,1986,243.2993096,Electric,3,Other,None,Tankless,Smart,Incandescent,Foam,Other,"Microwave, Refrigerator, Other, Washer, Dryer, Oven",Low-E,Wood,Yes,No
+House,Urban,1909,2,4,Tile,2012,254.7349054,Gas,3,Forced Air,Window AC,Storage,Manual,LED,Other,Fiberglass,"Dryer, Dishwasher, Refrigerator, Other",Double Pane,Metal,Yes,Yes
+Condo,Suburban,1747,4,2,Asphalt,1987,275.2272631,Solar,7,Heat Pump,Central AC,Other,Manual,CFL,Other,Other,"Other, Refrigerator, Microwave",Single Pane,Metal,No,No
+Condo,Suburban,4470,1,1,Other,1993,190.2293982,Electric,4,Forced Air,Window AC,Heat Pump,Programmable,CFL,Other,Other,"Oven, Refrigerator, Dryer, Washer, Dishwasher, Microwave",Double Pane,Fiberglass,No,Yes
+Apartment,Suburban,1480,5,1,Other,1983,54.09535985,Solar,7,Other,Window AC,Heat Pump,Smart,CFL,Other,Other,"Oven, Microwave, Other, Dishwasher, Dryer, Washer, Refrigerator",Single Pane,Metal,Yes,Yes
+Condo,Rural,1094,1,4,Metal,1996,178.0828211,Other,2,Heat Pump,None,Heat Pump,Programmable,LED,Other,Fiberglass,"Dryer, Microwave",Double Pane,Fiberglass,Yes,No
+House,Suburban,2880,3,3,Tile,2003,72.47700658,Solar,9,Heat Pump,Central AC,Storage,Smart,LED,Foam,Foam,"Oven, Other, Refrigerator",Low-E,Fiberglass,Yes,Yes
+Condo,Suburban,2319,2,4,Metal,1984,213.6400308,Other,3,Heat Pump,Central AC,Other,Smart,CFL,Foam,Fiberglass,"Microwave, Refrigerator, Other, Oven, Dryer, Washer",Low-E,Wood,Yes,No
+House,Suburban,2115,2,1,Asphalt,1982,137.727586,Electric,6,Radiant,Central AC,Tankless,Smart,Incandescent,Fiberglass,Other,"Washer, Dishwasher, Dryer, Microwave, Refrigerator",Single Pane,Metal,No,No
+Condo,Rural,4092,4,1,Tile,1980,137.2858251,Other,3,Heat Pump,Window AC,Tankless,Programmable,Incandescent,Other,Fiberglass,"Microwave, Oven, Dryer, Dishwasher",Double Pane,Wood,No,Yes
+House,Rural,4268,4,1,Tile,1984,132.5259219,Gas,7,Other,Central AC,Heat Pump,Smart,CFL,Other,Fiberglass,"Refrigerator, Dryer, Dishwasher, Other, Oven, Microwave, Washer",Double Pane,Metal,No,No
+Apartment,Rural,1060,1,3,Other,2002,246.4952658,Gas,4,Other,None,Tankless,Smart,CFL,Foam,Foam,"Other, Refrigerator, Oven, Microwave",Single Pane,Fiberglass,Yes,No
+House,Urban,2574,3,3,Metal,2004,234.1143274,Electric,9,Forced Air,None,Storage,Manual,Incandescent,Fiberglass,Fiberglass,"Dryer, Other, Dishwasher, Refrigerator, Washer, Oven, Microwave",Double Pane,Metal,Yes,Yes
+Condo,Rural,1889,2,3,Metal,1988,222.1146055,Gas,3,Radiant,None,Other,Smart,CFL,Foam,Other,"Oven, Refrigerator, Dishwasher, Microwave, Dryer, Other, Washer",Low-E,Wood,No,No
+House,Urban,4262,4,4,Metal,2015,140.1869554,Other,8,Radiant,None,Tankless,Smart,CFL,Other,Other,"Dryer, Dishwasher, Oven, Washer",Low-E,Wood,No,Yes
+Condo,Suburban,3410,3,1,Metal,2009,70.6067997,Gas,1,Other,None,Other,Manual,Incandescent,Fiberglass,Fiberglass,"Washer, Refrigerator, Oven, Dishwasher, Dryer",Single Pane,Fiberglass,No,Yes
+Condo,Rural,2858,2,1,Other,1982,251.0780098,Electric,5,Heat Pump,Central AC,Other,Programmable,Incandescent,Fiberglass,Other,"Microwave, Dishwasher, Other, Dryer, Oven, Refrigerator, Washer",Low-E,Metal,No,Yes
+House,Suburban,4218,5,2,Other,1986,131.6068408,Electric,6,Forced Air,Central AC,Heat Pump,Manual,LED,Other,Foam,"Dryer, Dishwasher, Microwave, Refrigerator, Other",Single Pane,Metal,No,Yes
+Condo,Rural,1791,2,2,Asphalt,2003,81.91746787,Electric,6,Forced Air,Central AC,Tankless,Smart,LED,Other,Other,"Refrigerator, Washer, Dryer, Other, Oven, Dishwasher, Microwave",Low-E,Metal,No,Yes
+House,Urban,1761,5,2,Metal,1981,73.40315869,Electric,6,Heat Pump,None,Storage,Manual,Incandescent,Other,Foam,"Washer, Dryer, Other, Microwave",Single Pane,Fiberglass,Yes,No
+Apartment,Urban,2216,5,1,Other,1984,150.4222999,Solar,7,Heat Pump,Central AC,Other,Smart,CFL,Fiberglass,Other,"Microwave, Refrigerator, Washer, Dryer",Single Pane,Fiberglass,Yes,No
+Condo,Rural,4992,2,1,Other,2023,194.3637072,Electric,8,Other,None,Other,Programmable,Incandescent,Other,Fiberglass,"Other, Washer",Low-E,Metal,No,Yes
+House,Suburban,3960,2,1,Asphalt,1982,230.7935852,Electric,2,Forced Air,None,Tankless,Manual,Incandescent,Fiberglass,Foam,"Washer, Other",Double Pane,Wood,No,No
+Apartment,Suburban,2503,5,4,Asphalt,1995,148.1546786,Other,6,Radiant,Central AC,Tankless,Smart,CFL,Fiberglass,Fiberglass,"Other, Washer, Microwave, Refrigerator, Oven, Dryer",Single Pane,Metal,Yes,Yes
+Condo,Urban,3150,3,1,Metal,1998,141.1449413,Gas,4,Other,Window AC,Heat Pump,Programmable,Incandescent,Other,Fiberglass,"Microwave, Dryer, Washer, Other",Single Pane,Fiberglass,Yes,No
+House,Rural,3642,3,3,Metal,1982,210.7963273,Solar,8,Forced Air,None,Storage,Manual,Incandescent,Fiberglass,Foam,"Microwave, Dryer",Double Pane,Fiberglass,No,Yes
+Apartment,Rural,1641,3,4,Metal,2019,157.7508477,Electric,7,Forced Air,Central AC,Tankless,Programmable,CFL,Fiberglass,Foam,"Oven, Refrigerator, Dryer, Washer, Microwave",Low-E,Metal,No,No
+House,Rural,3166,3,3,Other,1984,240.7862255,Gas,6,Heat Pump,Window AC,Tankless,Manual,CFL,Foam,Foam,"Oven, Microwave, Washer, Dishwasher, Dryer, Other, Refrigerator",Low-E,Metal,No,No
+Apartment,Urban,2093,2,3,Other,2017,236.0451781,Gas,5,Heat Pump,None,Storage,Programmable,CFL,Foam,Other,"Other, Dryer, Washer",Single Pane,Fiberglass,No,No
+House,Rural,2010,5,1,Tile,2017,222.9880795,Gas,2,Heat Pump,Central AC,Storage,Manual,LED,Other,Other,"Oven, Washer, Dryer, Other, Microwave, Refrigerator",Single Pane,Metal,Yes,No
+House,Rural,3945,5,2,Tile,2007,128.749217,Electric,9,Heat Pump,None,Storage,Programmable,Incandescent,Other,Fiberglass,"Other, Refrigerator, Washer, Dryer, Microwave, Oven, Dishwasher",Low-E,Fiberglass,Yes,No
+Apartment,Suburban,2253,4,2,Other,1987,58.86283347,Solar,5,Heat Pump,None,Tankless,Programmable,CFL,Foam,Fiberglass,"Dryer, Other",Low-E,Fiberglass,Yes,Yes
+Apartment,Urban,2911,3,1,Metal,2021,236.0572028,Solar,2,Forced Air,Central AC,Other,Smart,Incandescent,Fiberglass,Fiberglass,"Dryer, Microwave, Dishwasher",Double Pane,Wood,Yes,No
+Apartment,Urban,4839,1,3,Other,2009,113.8500642,Gas,10,Other,None,Other,Manual,Incandescent,Foam,Other,"Dryer, Oven",Double Pane,Fiberglass,Yes,No
+Condo,Suburban,1945,1,1,Tile,1996,67.25726141,Solar,9,Heat Pump,None,Heat Pump,Smart,LED,Other,Foam,"Dishwasher, Refrigerator, Washer, Dryer, Other, Oven",Single Pane,Fiberglass,Yes,Yes
+Apartment,Suburban,1023,3,1,Tile,2021,247.1670312,Other,3,Heat Pump,Central AC,Storage,Programmable,CFL,Other,Foam,"Other, Refrigerator",Double Pane,Wood,No,Yes
+House,Urban,2660,1,1,Asphalt,2019,289.6183382,Solar,1,Other,None,Other,Smart,LED,Fiberglass,Fiberglass,"Microwave, Refrigerator",Low-E,Metal,No,No
+Apartment,Urban,1200,5,1,Asphalt,1997,116.7978275,Solar,3,Heat Pump,Window AC,Other,Programmable,Incandescent,Fiberglass,Fiberglass,"Dryer, Oven, Dishwasher, Washer, Refrigerator",Double Pane,Wood,No,No
+Apartment,Rural,3572,5,1,Tile,1985,215.1305353,Solar,2,Radiant,None,Storage,Smart,Incandescent,Fiberglass,Fiberglass,"Oven, Dryer, Microwave",Low-E,Fiberglass,No,Yes
+House,Rural,1640,4,2,Asphalt,2001,257.9431982,Other,9,Heat Pump,Window AC,Tankless,Manual,LED,Fiberglass,Other,"Refrigerator, Dryer",Single Pane,Fiberglass,Yes,No
+House,Urban,4350,3,1,Tile,2022,153.4592941,Electric,7,Radiant,Window AC,Other,Manual,Incandescent,Other,Fiberglass,"Microwave, Refrigerator, Dishwasher",Double Pane,Wood,No,Yes
+Condo,Urban,2270,5,4,Asphalt,1997,203.8827174,Other,3,Forced Air,Central AC,Storage,Smart,CFL,Foam,Other,"Refrigerator, Microwave, Oven, Dishwasher, Washer",Double Pane,Metal,No,No
+Condo,Suburban,1420,1,1,Other,2008,216.3530286,Solar,1,Heat Pump,None,Storage,Manual,CFL,Fiberglass,Foam,"Dishwasher, Microwave, Refrigerator, Other, Oven, Dryer",Single Pane,Metal,Yes,No
+Apartment,Suburban,4955,4,1,Metal,1991,86.7845112,Electric,4,Heat Pump,Central AC,Tankless,Programmable,CFL,Fiberglass,Foam,"Refrigerator, Microwave",Single Pane,Fiberglass,No,Yes
+Condo,Rural,3909,3,3,Tile,2007,264.3823813,Solar,5,Radiant,Central AC,Tankless,Manual,CFL,Other,Foam,"Other, Washer, Dishwasher, Microwave, Refrigerator, Dryer, Oven",Double Pane,Fiberglass,Yes,Yes
+Apartment,Rural,2826,5,2,Other,2022,65.51407704,Solar,9,Other,Central AC,Heat Pump,Manual,Incandescent,Fiberglass,Foam,"Other, Refrigerator",Low-E,Fiberglass,Yes,Yes
+House,Rural,1057,2,2,Metal,1989,191.8500507,Other,1,Forced Air,Central AC,Tankless,Manual,LED,Fiberglass,Fiberglass,"Washer, Other, Refrigerator",Low-E,Metal,Yes,No
+Apartment,Urban,4853,1,2,Metal,2017,142.8561063,Solar,3,Forced Air,None,Other,Programmable,LED,Fiberglass,Fiberglass,"Refrigerator, Dryer, Dishwasher, Other, Microwave",Single Pane,Fiberglass,Yes,Yes
+Condo,Urban,3069,1,4,Tile,2010,102.3240087,Electric,1,Radiant,Central AC,Other,Smart,Incandescent,Foam,Other,"Washer, Refrigerator, Dishwasher, Dryer, Oven",Low-E,Fiberglass,No,Yes
+House,Urban,4794,3,3,Asphalt,1987,264.7669007,Other,5,Heat Pump,Window AC,Storage,Manual,Incandescent,Fiberglass,Other,"Refrigerator, Oven, Other, Dishwasher, Dryer",Low-E,Metal,Yes,Yes
+Apartment,Suburban,4244,3,4,Tile,2015,63.6846531,Solar,7,Heat Pump,Central AC,Tankless,Programmable,Incandescent,Other,Foam,"Dishwasher, Washer, Dryer",Single Pane,Fiberglass,Yes,No
+House,Urban,4561,1,2,Metal,2017,51.43062381,Solar,2,Other,None,Tankless,Programmable,CFL,Fiberglass,Fiberglass,"Dryer, Washer, Refrigerator, Microwave, Other, Oven, Dishwasher",Low-E,Metal,No,No
+House,Rural,3197,4,1,Tile,2020,117.2184179,Other,2,Other,Window AC,Other,Programmable,LED,Foam,Foam,"Other, Oven, Microwave",Single Pane,Metal,Yes,Yes
+Condo,Suburban,3187,3,4,Asphalt,1985,172.2031743,Solar,1,Heat Pump,None,Storage,Manual,LED,Foam,Foam,"Oven, Other, Refrigerator",Low-E,Metal,Yes,Yes
+House,Urban,2705,4,2,Asphalt,2012,120.6942724,Electric,10,Other,Central AC,Heat Pump,Smart,LED,Foam,Fiberglass,"Dryer, Washer, Dishwasher, Other",Single Pane,Fiberglass,No,Yes
+Condo,Suburban,3617,3,2,Metal,2006,69.02910319,Gas,4,Other,Central AC,Storage,Manual,Incandescent,Other,Other,"Refrigerator, Oven, Dryer, Washer, Other, Dishwasher",Double Pane,Metal,No,No
+House,Rural,3550,3,3,Metal,1994,105.8837783,Electric,10,Forced Air,Central AC,Heat Pump,Smart,LED,Fiberglass,Foam,"Other, Dryer",Low-E,Metal,Yes,Yes
+Condo,Urban,4310,1,3,Asphalt,1992,230.3356841,Solar,2,Radiant,None,Heat Pump,Smart,Incandescent,Other,Fiberglass,"Dryer, Dishwasher, Washer, Oven, Microwave, Other, Refrigerator",Single Pane,Fiberglass,No,Yes
+House,Rural,1980,3,2,Metal,1993,295.2407511,Electric,10,Radiant,Central AC,Tankless,Manual,LED,Foam,Other,"Refrigerator, Dishwasher",Low-E,Wood,No,No
+Condo,Suburban,1283,4,1,Tile,2020,187.4641284,Gas,4,Heat Pump,None,Tankless,Programmable,Incandescent,Fiberglass,Fiberglass,"Other, Oven",Low-E,Fiberglass,Yes,No
+Condo,Rural,2782,2,2,Metal,2009,106.5333629,Electric,4,Forced Air,Window AC,Other,Programmable,Incandescent,Fiberglass,Foam,"Oven, Refrigerator, Other, Microwave, Dishwasher",Low-E,Wood,Yes,No
+Condo,Suburban,3870,4,2,Other,2014,138.5450259,Gas,3,Heat Pump,None,Other,Programmable,CFL,Other,Fiberglass,"Washer, Dryer, Oven, Microwave, Refrigerator, Other",Double Pane,Fiberglass,Yes,No
+Condo,Rural,2245,2,4,Other,2003,211.0046076,Gas,3,Forced Air,None,Storage,Manual,CFL,Foam,Other,"Dishwasher, Washer, Other",Single Pane,Wood,No,No
+House,Urban,2779,4,4,Asphalt,1989,264.9203231,Solar,2,Heat Pump,None,Tankless,Programmable,Incandescent,Fiberglass,Other,"Oven, Dishwasher, Other",Single Pane,Metal,No,No
+Condo,Urban,1747,2,1,Metal,2013,108.1652443,Electric,1,Forced Air,Window AC,Storage,Manual,Incandescent,Other,Fiberglass,"Dryer, Washer, Microwave, Other, Refrigerator, Dishwasher, Oven",Double Pane,Wood,Yes,Yes
+Condo,Suburban,1151,3,3,Metal,2020,53.76635948,Electric,7,Other,Window AC,Storage,Programmable,LED,Other,Foam,"Dishwasher, Dryer, Oven",Single Pane,Fiberglass,Yes,No
+House,Urban,1779,5,4,Other,2011,287.8592776,Electric,5,Forced Air,Window AC,Other,Smart,Incandescent,Fiberglass,Fiberglass,"Refrigerator, Microwave",Low-E,Metal,Yes,No
+Apartment,Suburban,2983,1,3,Asphalt,2018,150.1185036,Electric,5,Other,None,Other,Smart,Incandescent,Other,Other,"Dishwasher, Other, Dryer, Washer",Low-E,Fiberglass,Yes,No
+Apartment,Suburban,4317,2,3,Other,2015,163.7163955,Electric,4,Other,Window AC,Heat Pump,Programmable,LED,Other,Fiberglass,"Microwave, Dryer, Washer",Low-E,Fiberglass,No,No
+Apartment,Urban,1689,2,2,Other,1981,160.5077686,Solar,5,Heat Pump,Central AC,Heat Pump,Programmable,LED,Fiberglass,Fiberglass,"Washer, Dishwasher",Low-E,Wood,No,Yes
+Apartment,Suburban,1314,2,1,Asphalt,1987,147.9772902,Gas,2,Other,Window AC,Tankless,Smart,LED,Foam,Other,"Refrigerator, Dryer, Washer, Microwave, Oven",Double Pane,Wood,No,Yes
+Condo,Urban,1167,3,1,Metal,1986,111.5830645,Solar,3,Other,None,Other,Programmable,CFL,Other,Other,"Oven, Dishwasher",Double Pane,Fiberglass,Yes,No
+House,Rural,1709,3,4,Tile,2015,272.675693,Electric,3,Heat Pump,None,Tankless,Smart,Incandescent,Other,Foam,"Dryer, Oven, Dishwasher, Refrigerator",Single Pane,Wood,No,No
+House,Urban,3208,5,4,Metal,1996,151.6545805,Gas,7,Radiant,Window AC,Storage,Smart,CFL,Foam,Fiberglass,"Other, Washer, Oven, Refrigerator, Dryer, Microwave",Single Pane,Wood,No,No
+Apartment,Suburban,4052,1,4,Tile,1982,61.21533447,Solar,2,Heat Pump,None,Storage,Programmable,CFL,Fiberglass,Other,"Refrigerator, Washer, Dryer, Dishwasher, Microwave, Oven, Other",Single Pane,Fiberglass,No,Yes
+Apartment,Urban,2634,3,3,Other,1993,57.64800223,Gas,10,Radiant,Window AC,Storage,Programmable,CFL,Other,Other,"Refrigerator, Oven, Microwave, Dishwasher, Washer",Single Pane,Fiberglass,No,No
